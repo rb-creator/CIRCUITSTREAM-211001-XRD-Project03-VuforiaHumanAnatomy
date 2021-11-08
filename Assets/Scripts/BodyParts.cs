@@ -9,7 +9,7 @@ public class BodyParts : MonoBehaviour
     public Image brainIcon;
  public void OnBrainFound()
     {
-        brainIcon.color
+        brainIcon.color;
     }
     
 }
